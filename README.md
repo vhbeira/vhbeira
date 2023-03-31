@@ -15,3 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhbeira&show_icons=true&locale=en&theme=transparent" alt="eubeirao" /></p>
 
+<p>&nbsp;<img align="center" https://github-readme-stats.vercel.app/api/top-langs/?username=vhbeira&hide=javascript,html&theme=transparent</p>
+
