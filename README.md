@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor "Beira" Mendes</h1>
-<h3 align="center">I am a programmer and studying Computer Science at Federal de São João Del Rei.</h3>
+<h3 align="left">I am a programmer and studying Computer Science at Federal de São João Del Rei.</h3>
 
 - 🔭 I’m currently working on **college projects and buisness.**
 - 🌱 I’m currently learning **Python and Django**
